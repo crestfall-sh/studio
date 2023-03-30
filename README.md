@@ -1,2 +1,7 @@
 # studio
-Crestfall Studio
+
+Crestfall Studio Web App
+
+#### License
+
+MIT
